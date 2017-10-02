@@ -1,3 +1,5 @@
+[![wercker status](https://app.wercker.com/status/0ca100b06b30e4611a7f7345fd472195/s/master "wercker status")](https://app.wercker.com/project/byKey/0ca100b06b30e4611a7f7345fd472195)
+
 ## Homework 3 - Visualization
 
 ### Part 1 - Due by 1:00 pm on Monday October 2nd.
